@@ -1,0 +1,13 @@
+.title
+{
+    color: black;
+    border: 1px solid black;
+    font-size: xx-large;
+    box-shadow: 2px 2px 2px 2px;
+    text-shadow: 1px 2px 1px;
+}
+#list
+{
+    color: red;
+    font-size: larger;
+}
